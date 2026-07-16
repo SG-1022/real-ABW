@@ -8,7 +8,7 @@ today = (today.month, today.day)
 
 mom = (12, 25)
 dad = (9, 28)
-me = (7, 16)
+me = (5, 25)
 bro = (1, 19)
 
 info = {
